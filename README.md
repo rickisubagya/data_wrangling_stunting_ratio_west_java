@@ -20,3 +20,5 @@ You can download the dataset from [open data Jabar](https://opendata.jabarprov.g
 - Convert column year to Datetime format
 - Save to excel file
 - Dataset ready to process in Tableau
+
+You can click [here](https://medium.com/@rickisubagya/dashboard-stunting-ratio-in-west-java-province-2a97f396ccee) to read a full story about dashboard stunting ratio in West Java Province on medium.
